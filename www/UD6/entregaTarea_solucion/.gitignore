@@ -1,0 +1,7 @@
+flight/
+.htaccess
+composer.json
+CONTRIBUTING.md
+LICENSE
+phpcs.xml.dist
+README.md
